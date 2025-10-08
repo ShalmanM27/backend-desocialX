@@ -2,7 +2,6 @@ import os
 import json
 import logging
 import requests
-from web3 import Web3
 from app.services.db import db  # ✅ MongoDB Atlas connection
 from app import config
 
